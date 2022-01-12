@@ -1,6 +1,7 @@
 # TDT4102-Prosedyre-Objektorientert :computer:
 
 Dette er min repo for ovinger og diverse kodesnutter. Kildekode i src og tekstfiler i "Oving x"
+Har blitt brukt VSCode some IDE :)
 
 <br>
 
